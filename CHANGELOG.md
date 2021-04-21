@@ -1,3 +1,10 @@
+# 1.0.0 (2021-04-21)
+
+
+### Features
+
+* Initial Release ([e2cf2d2](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/e2cf2d233c1eab9bd9d2ce6859101a8b6ca77337))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.2...v1.1.0) (2021-03-17)
 
 
