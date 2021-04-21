@@ -59,7 +59,10 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
+    "@cocreate/crud-client": "^1.0.5",
     "@cocreate/docs": "^1.0.3",
-    "@fortawesome/fontawesome-free": "^5.15.3"
+    "@cocreate/utils": "^1.0.3",
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "mini-css-extract-plugin": "^1.5.0"
   }
 }
