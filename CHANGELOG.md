@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.0...v1.0.1) (2021-04-26)
+
+
+### Bug Fixes
+
+* import regular, brand, solid ([706c580](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/706c580c11ae78301a6e885cc635dac35e200228))
+
 # 1.0.0 (2021-04-21)
 
 
