@@ -1,8 +1,7 @@
-
-import fontawesome from '@fortawesome/fontawesome-free/js/all.js';
-import '@fortawesome/fontawesome-free/css/all.css';
-// import fontawesome from '@fortawesome/fontawesome-free/js/all.js';
-// import '@fortawesome/fontawesome-free/css/all.css';
+import '@fortawesome/fontawesome-free/js/fontawesome'
+import '@fortawesome/fontawesome-free/js/solid'
+import '@fortawesome/fontawesome-free/js/regular'
+import '@fortawesome/fontawesome-free/js/brands'
 
 const CoCreateFontAwesome = {
   
