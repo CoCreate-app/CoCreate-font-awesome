@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.4...v1.0.5) (2021-06-20)
+
+
+### Bug Fixes
+
+* new mutaionObserver init function ([e266af6](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/e266af6c127ea7772cfd9e76e627141db60caba7))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.3...v1.0.4) (2021-06-17)
 
 
