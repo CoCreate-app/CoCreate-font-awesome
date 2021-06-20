@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.3...v1.0.4) (2021-06-17)
+
+
+### Bug Fixes
+
+* added header for seo ([dc1ba65](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/dc1ba65b1c5fd704faa4cc5ad4176840a74a3d84))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.2...v1.0.3) (2021-06-06)
 
 
