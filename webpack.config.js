@@ -3,6 +3,7 @@ const TerserPlugin = require("terser-webpack-plugin")
 const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 let isProduction = process.env.NODE_ENV === "production"
 const { CleanWebpackPlugin } = require("clean-webpack-plugin")
+// const ExtractTextPlugin = require("extract-text-webpack-plugin")
 
 module.exports = {
   entry: {
@@ -44,10 +45,22 @@ module.exports = {
       {
         test: /.css$/i,
         use: [
-          { loader: "style-loader", options: { injectType: "linkTag" } },
-          "file-loader",
-        ],
+          MiniCssExtractPlugin.loader,
+          'css-loader'
+        ]
       },
+      {
+        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+              outputPath: 'fonts/'
+            }
+          }
+        ]
+      }
     ],
   },
 
