@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.10...v1.0.11) (2021-07-06)
+
+
+### Bug Fixes
+
+* test CI automation and work flow ([d1dc2f2](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/d1dc2f2ffb4cfdca64bc08e1ea621521a934be82))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.9...v1.0.10) (2021-06-30)
 
 
