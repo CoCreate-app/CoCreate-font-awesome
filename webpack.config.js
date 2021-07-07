@@ -4,6 +4,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 let isProduction = process.env.NODE_ENV === "production"
 const { CleanWebpackPlugin } = require("clean-webpack-plugin")
 // const ExtractTextPlugin = require("extract-text-webpack-plugin")
+const htmlWebpack = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
@@ -24,6 +25,7 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: "[name].css",
     }),
+    new htmlWebpack()
   ],
   // Default mode for Webpack is production.
   // Depending on mode Webpack will apply different things
@@ -49,17 +51,31 @@ module.exports = {
           'css-loader'
         ]
       },
+      // {
+      //   test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+      //   use: [
+      //     {
+      //       loader: 'file-loader',
+      //       options: {
+      //         name: '[name].[ext]',
+      //         outputPath: 'fonts/'
+      //       }
+      //     }
+      //   ]
+      // }
+
+      // {
+      //     test: /\.(svg|eot|woff|woff2|ttf)$/,
+      //     use: ['file-loader']
+      // }
+
+      // {
+      //     test: /\.(sass|scss|css)$/,
+      //     use: ['style-loader','css-loader','sass-loader']
+      // },
       {
-        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
-        use: [
-          {
-            loader: 'file-loader',
-            options: {
-              name: '[name].[ext]',
-              outputPath: 'fonts/'
-            }
-          }
-        ]
+          test: /\.(svg|eot|woff|woff2|ttf)$/,
+          use: ['file-loader']
       }
     ],
   },
