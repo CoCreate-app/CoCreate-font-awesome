@@ -1,3 +1,11 @@
+## [1.0.14](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.13...v1.0.14) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([2a189a8](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/2a189a89d7a5c6e17f4a944e10b05f18302c5071))
+* remove yarn.lock ([4299547](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/4299547a9bfa9fd11641cf2e8bd682b7598f0834))
+
 ## [1.0.13](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.12...v1.0.13) (2021-07-10)
 
 
