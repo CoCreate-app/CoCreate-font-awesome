@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.16...v1.1.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([5d77d15](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/5d77d158ad43dc3bec1213640ce4f87716d32a89))
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([8150005](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/8150005aab792a2304aff39c421706986454e43d))
+
 ## [1.0.16](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.15...v1.0.16) (2021-07-17)
 
 
