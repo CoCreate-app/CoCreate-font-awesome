@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.0...v1.1.1) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([c351459](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/c351459d3a02a3f9089aba1bf06a67d68f574a5d))
+* update data-fullscreen to fullscreen ([66a7c90](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/66a7c90ebbf99b94124bc4e3f8a87c52b30c5407))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.0.16...v1.1.0) (2021-07-28)
 
 
