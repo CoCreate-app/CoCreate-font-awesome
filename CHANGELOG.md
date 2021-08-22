@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([518e79e](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/518e79e0a4488e864ff3d6a93544e30aced2119e))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
