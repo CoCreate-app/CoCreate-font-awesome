@@ -62,7 +62,7 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/docs": "^1.2.13",
+    "@cocreate/docs": "^1.2.15",
     "@fortawesome/fontawesome-free": "^5.15.3"
   }
 }
