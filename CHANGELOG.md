@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([4470a52](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/4470a529e1a205e69c8edf73d473002e9e5864a1))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
