@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.14...v1.1.15) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([5084bc2](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/5084bc2d18af5a3005ddcc5aa1c93dfe73fb8065))
+
 ## [1.1.14](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.13...v1.1.14) (2021-09-09)
 
 
