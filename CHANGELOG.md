@@ -1,3 +1,10 @@
+## [1.1.19](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.18...v1.1.19) (2021-09-28)
+
+
+### Bug Fixes
+
+* update dependencies ([bee4abc](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/bee4abcb99ccbf9be7b88f46a59a69424b456284))
+
 ## [1.1.18](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.17...v1.1.18) (2021-09-16)
 
 
