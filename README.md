@@ -1,6 +1,6 @@
 # CoCreate-font-awesome
 
-A simple font-awesome component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/font-awesome)
+A simple font-awesome component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/font-awesome)
 
 ![minified](https://img.badgesize.io/https://cdn.cocreate.app/font-awesome/latest/CoCreate-font-awesome.min.js?style=flat-square&label=minified&color=orange)
 ![gzip](https://img.badgesize.io/https://cdn.cocreate.app/font-awesome/latest/CoCreate-font-awesome.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
