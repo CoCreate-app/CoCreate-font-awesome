@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([43960e3](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/43960e3d28db471ba888d7f358bac742f6cf5f28))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
