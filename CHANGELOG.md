@@ -1,3 +1,10 @@
+## [1.1.52](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.51...v1.1.52) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([a7c4fcb](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/a7c4fcb87395c5087ab5ef3a5062374f6a9a6a91))
+
 ## [1.1.51](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.50...v1.1.51) (2021-12-15)
 
 
