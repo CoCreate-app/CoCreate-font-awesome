@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.53...v1.1.54) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([908ecc5](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/908ecc552bd0e5e11aa53b36ef3d0685089899dd))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.52...v1.1.53) (2022-02-01)
 
 
