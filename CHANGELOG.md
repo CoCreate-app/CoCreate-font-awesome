@@ -1,3 +1,10 @@
+## [1.1.59](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.58...v1.1.59) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([011e574](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/011e574f6540be246e0c42e14006b5bd00646a36))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.57...v1.1.58) (2022-02-24)
 
 
