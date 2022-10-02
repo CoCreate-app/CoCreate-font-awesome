@@ -1,3 +1,10 @@
+## [1.1.70](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.69...v1.1.70) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([273edb2](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/273edb28897716691b03f0980671911aa80a57a0))
+
 ## [1.1.69](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.68...v1.1.69) (2022-10-01)
 
 
