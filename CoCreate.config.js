@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "6143fcc6829b690010a5f341",
             "key": "src",
-            "data": {
+            "document": {
                 "name": "index.html",
                 "path": "/docs/font-awesome/index.html",
                 "domains": [
