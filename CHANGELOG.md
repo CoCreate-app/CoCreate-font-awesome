@@ -1,3 +1,10 @@
+## [1.1.77](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.76...v1.1.77) (2022-11-22)
+
+
+### Bug Fixes
+
+* workflow docs ([9fa31b3](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/9fa31b3745372b8df92561912ccbc8a84af80b90))
+
 ## [1.1.76](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.75...v1.1.76) (2022-11-22)
 
 
