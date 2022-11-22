@@ -1,3 +1,10 @@
+## [1.1.76](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.75...v1.1.76) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([f83d42f](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/f83d42ff6e4caf4cb50adac9e08ea7b1f27516f4))
+
 ## [1.1.75](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.74...v1.1.75) (2022-11-21)
 
 
