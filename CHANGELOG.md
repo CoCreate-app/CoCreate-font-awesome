@@ -1,3 +1,10 @@
+## [1.1.92](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.91...v1.1.92) (2022-12-13)
+
+
+### Bug Fixes
+
+* bump dependencies ([3568737](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/356873750f6374e5a5c5617cbf32d108dd5e1dd8))
+
 ## [1.1.91](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.90...v1.1.91) (2022-12-12)
 
 
