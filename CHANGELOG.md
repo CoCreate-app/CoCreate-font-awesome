@@ -1,3 +1,10 @@
+## [1.1.94](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.93...v1.1.94) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([ec125de](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/ec125de7999178cf607ed8625c8886dd9271f0fb))
+
 ## [1.1.93](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.92...v1.1.93) (2022-12-13)
 
 
