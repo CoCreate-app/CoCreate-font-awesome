@@ -16,7 +16,6 @@ module.exports = {
     libraryExport: "default",
     library: ["CoCreate", "font-awesome"],
     globalObject: "this",
-    // publicPath: 'https://server.cocreate.app/CoCreateJS/dist/'
   },
 
   plugins: [
