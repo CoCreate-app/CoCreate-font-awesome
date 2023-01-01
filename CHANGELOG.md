@@ -1,3 +1,10 @@
+## [1.1.105](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.104...v1.1.105) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([3f47372](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/3f473726cfd8594318b0bcac5d8a699f6e81793d))
+
 ## [1.1.104](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.103...v1.1.104) (2022-12-31)
 
 
