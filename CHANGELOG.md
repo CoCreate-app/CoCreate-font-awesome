@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.115...v1.2.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([89044cf](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/89044cf343e567b268e1b32a292899a99070f5cd))
+
 ## [1.1.115](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.1.114...v1.1.115) (2023-02-01)
 
 
