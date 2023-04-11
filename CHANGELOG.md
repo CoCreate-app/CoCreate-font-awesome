@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.2.3...v1.2.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([d78b277](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/d78b2776b177acd73d2ec74920a8a9aeb2168ea3))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.2.2...v1.2.3) (2023-03-30)
 
 
