@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.2.6...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([1a13523](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/1a135239e4c9c8875abee1a589e08f297e0fb89f))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.2.5...v1.2.6) (2023-04-11)
 
 
