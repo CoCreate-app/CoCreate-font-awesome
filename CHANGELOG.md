@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.3.2...v1.3.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* workflow node version updated  16 ([e02043f](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/e02043f42dc625156e9ca45e33faa60441623d33))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.3.1...v1.3.2) (2023-04-24)
 
 
