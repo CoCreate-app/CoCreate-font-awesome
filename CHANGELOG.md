@@ -1,3 +1,12 @@
+## [1.3.5](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.3.4...v1.3.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([ba7f56c](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/ba7f56cb2c4c1010c97b0f1e521141a43c2f3074))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([5ca3c04](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/5ca3c040b239f3378915e30f0aa8964c17ec5017))
+* removed toogle fullscreen icons. now using css content ([a362ce8](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/a362ce8aebbde0a8c6eee67525dabe9c6f3c4981))
+
 ## [1.3.4](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.3.3...v1.3.4) (2023-04-24)
 
 
