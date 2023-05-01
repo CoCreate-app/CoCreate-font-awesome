@@ -1,3 +1,10 @@
+## [1.3.7](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.3.6...v1.3.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([3d1e482](https://github.com/CoCreate-app/CoCreate-font-awesome/commit/3d1e482cddb46c47248b855504fe48e32417fb7e))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-font-awesome/compare/v1.3.5...v1.3.6) (2023-05-01)
 
 
